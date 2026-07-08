@@ -14,5 +14,9 @@
     <None Include="Icons\red.ico" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Icons\yellow.ico" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
-
+  <ItemGroup>
+  <None Update="settings.json">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
+</ItemGroup>
 </Project>

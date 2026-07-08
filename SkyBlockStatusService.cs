@@ -9,7 +9,7 @@ public static class SkyBlockStatusService
 {
     private static readonly HttpClient client = new();
 
-    private const string ApiKey = "9f72bcb4-0b7f-4615-9d7c-2b2e7d100a4f";
+private static readonly string ApiKey = Settings.Load().ApiKey;
 
 
     public static async Task<int> GetSkyBlockPlayerCount()

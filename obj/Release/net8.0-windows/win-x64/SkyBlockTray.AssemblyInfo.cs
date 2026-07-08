@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyBlockTray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeab63da12774f5511e97b7c217b360a589f6757")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f16fd87bbdece6db5a915826b42dcde10bef180d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyBlockTray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyBlockTray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
