@@ -1,3 +1,4 @@
+C:\Users\Gilead\Desktop\SkyBlockTray\bin\Debug\net8.0-windows\settings.json
 C:\Users\Gilead\Desktop\SkyBlockTray\bin\Debug\net8.0-windows\Icons\green.ico
 C:\Users\Gilead\Desktop\SkyBlockTray\bin\Debug\net8.0-windows\Icons\red.ico
 C:\Users\Gilead\Desktop\SkyBlockTray\bin\Debug\net8.0-windows\Icons\yellow.ico
@@ -16,4 +17,3 @@ C:\Users\Gilead\Desktop\SkyBlockTray\obj\Debug\net8.0-windows\refint\SkyBlockTra
 C:\Users\Gilead\Desktop\SkyBlockTray\obj\Debug\net8.0-windows\SkyBlockTray.pdb
 C:\Users\Gilead\Desktop\SkyBlockTray\obj\Debug\net8.0-windows\SkyBlockTray.genruntimeconfig.cache
 C:\Users\Gilead\Desktop\SkyBlockTray\obj\Debug\net8.0-windows\ref\SkyBlockTray.dll
-C:\Users\Gilead\Desktop\SkyBlockTray\bin\Debug\net8.0-windows\settings.json

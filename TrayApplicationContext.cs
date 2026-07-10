@@ -103,13 +103,8 @@ public class TrayApplicationContext : ApplicationContext
                     $"SkyBlock is online again ({players:N0} players)."
                 );
             }
-            else
-            {
-                NotificationService.Show(
-                    "SkyBlock Maintenance",
-                    $"SkyBlock is unavailable ({players:N0} players)."
-                );
-            }
+            
+            
         }
 
 
